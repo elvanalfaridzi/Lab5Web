@@ -1,0 +1,32 @@
+<!--
+	File: Daftar_menu.html
+	//-->
+<html>
+<head>
+	<title>Daftar Menu</title>
+	<script>
+		function hitung(ele) {
+			var total = document.getElementById('total').value;
+				total = (total ? parseInt(total) : 0);
+			var harga = 0;
+			if (ele.checked) {
+				harga = ele.value;
+				total += parseInt(harga);
+			} else {
+				harga = ele.value;
+				if (total > 0)
+					total -= parseInt(harga);
+			}
+
+			document.getElementById('total').value = total;
+		}
+	</script>
+</head>
+<body>
+	<h1>Daftar Menu Pakaian</h1>
+	<label><input type="checkbox" value="75000" id="menu1" onclick="hitung(this);" /> T-Shirt Sukajan Rp. 75.000</label><br/>
+	<label><input type="checkbox" value="150000" id="menu2" onclick="hitung(this);" /> Jaket Varsity Rp. 150.000</label><br/>
+	<label><input type="checkbox" value="250000" id="menu3" onclick="hitung(this);" /> Celana Rp. 250.000</label><br/>
+	<strong>Total Bayar: Rp. <input id="total" type="text" /></strong>
+</body>
+</html>

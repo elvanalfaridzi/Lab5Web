@@ -68,3 +68,44 @@ contoh ketika input bilangan angka 3 maka hasilnya :
 ![image](https://user-images.githubusercontent.com/82002182/116121979-6364ae00-a6eb-11eb-9fb2-9339d205b570.png)
 
 9. Pembuatan Form Input :
+
+![image](https://user-images.githubusercontent.com/82002182/116123340-18e43100-a6ed-11eb-968c-8f68f057a3e6.png)
+
+contoh ketika input angka 4 pada form BIL maka hasilnya :
+
+![image](https://user-images.githubusercontent.com/82002182/116123431-2f8a8800-a6ed-11eb-8d67-7f655094935b.png)
+
+dan contoh ketika input angka 7 pada form BIL maka hasilnya :
+
+![image](https://user-images.githubusercontent.com/82002182/116123546-534dce00-a6ed-11eb-9833-bd2cafff823e.png)
+
+10. Pembuatan Form Button :
+
+![image](https://user-images.githubusercontent.com/82002182/116123862-ba6b8280-a6ed-11eb-8cd1-0db2d3711791.png)
+
+contoh ketika di klik button latar belakang hijau maka hasilnya :
+
+![image](https://user-images.githubusercontent.com/82002182/116124034-f6064c80-a6ed-11eb-8b11-1f0601aa7711.png)
+
+11. HTML DOM membuat daftar menu :
+
+![image](https://user-images.githubusercontent.com/82002182/116124875-0a971480-a6ef-11eb-8962-71f1c4eb1779.png)
+
+contoh ketika checkBox di arahkan atau dipilih maka akan muncul total bayar dengan perhitungan otomatis :
+
+![image](https://user-images.githubusercontent.com/82002182/116124955-23072f00-a6ef-11eb-9275-672fd7c18fa4.png)
+
+Pertanyaan dan Tugas
+
+    1. Buat script untuk melakukan validasi pada isian form :
+
+![image](https://user-images.githubusercontent.com/82002182/116125353-96a93c00-a6ef-11eb-985f-7e05033615c0.png)
+
+untuk coddinganya seperti berikut ini :
+
+![image](https://user-images.githubusercontent.com/82002182/116125248-74172300-a6ef-11eb-9bac-904aee9b3b19.png)
+
+contoh ketika klik Sign Up tanpa mengisi data maka muncul Alert :
+
+![image](https://user-images.githubusercontent.com/82002182/116125444-b17bb080-a6ef-11eb-8342-bb837b851a18.png)
+
